@@ -2,9 +2,9 @@
   <img src="Bilder/Logo_Wahlhilfe.png" alt="Wahlhilfe Logo" width="180">
 </p>
 
-# Wahlhilfe GPT Landtagswahl BW26
+# Wahlhilfe GPT Landtagswahl BW 2026
 
-Die **Wahlhilfe** ist ein neutrales Tool, das dabei helfen soll, **Wahlprogramme zur Landtagswahl Baden Württemberg 2026** schneller zu strukturieren und besser zu verstehen.  
+Die **Wahlhilfe** ist ein neutrales Tool, das dabei helfen soll, **Wahlprogramme zur Landtagswahl Baden-Württemberg 2026** schneller zu strukturieren und besser zu verstehen.  
 Statt eine Wahlentscheidung vorzugeben, unterstützt sie dabei, Positionen zu Themen zu vergleichen, Themen gezielt im Original Wahlprogramm wiederzufinden und eigene Prioritäten systematisch zu reflektieren.
 
 Dieses Repository sammelt Prompts, Vorlagen sowie begleitende Materialien, inklusive Bildprompt Templates und Zitierhinweisen.
