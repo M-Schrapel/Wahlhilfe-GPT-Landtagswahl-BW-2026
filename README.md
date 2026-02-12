@@ -24,7 +24,7 @@ Das folgende Bild ist ein Beispiel für eine „alle Parteien“ Übersicht, bei
 ![Wahlprogramme AI Übersicht](Bilder/Wahlprogramme_AI.jpg)
 
 ### Dateien
-- Referenzbild: [`Bilder/Stuttgart_referenz.png`](Bilder/Stuttgart_referenz.jpg)
+- Referenzbild: [`Bilder/Stuttgart_referenz.jpg`](Bilder/Stuttgart_referenz.jpg)
 - Prompt Template: [`Prompts/Bildgenerierung.txt`](Prompts/Bildgenerierung.txt)
 - Anleitung zur Nutzung: [`Prompts/README.md`](Prompts/README.md)
 
