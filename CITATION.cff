@@ -6,8 +6,8 @@ authors:
   - family-names: "Schrapel"
     given-names: "Maximilian"
     honorific-prefix: "Dr."
-repository-code: "REPLACE_WITH_YOUR_GITHUB_REPO_URL"
-url: "REPLACE_WITH_YOUR_GITHUB_REPO_URL"
+repository-code: "https://github.com/M-Schrapel/Wahlhilfe-GPT-Landtagswahl-BW-2026"
+url: "https://github.com/M-Schrapel/Wahlhilfe-GPT-Landtagswahl-BW-2026"
 license: "MIT"
 keywords:
   - "Landtagswahl"
@@ -24,6 +24,6 @@ preferred-citation:
       given-names: "Maximilian"
       honorific-prefix: "Dr."
   year: 2026
-  repository-code: "REPLACE_WITH_YOUR_GITHUB_REPO_URL"
-  url: "REPLACE_WITH_YOUR_GITHUB_REPO_URL"
+  repository-code: "https://github.com/M-Schrapel/Wahlhilfe-GPT-Landtagswahl-BW-2026"
+  url: "https://github.com/M-Schrapel/Wahlhilfe-GPT-Landtagswahl-BW-2026"
   license: "MIT"
