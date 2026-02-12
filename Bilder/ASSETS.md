@@ -20,7 +20,7 @@ It does not replace the license files but helps avoid accidental redistribution 
 - Source: FILL IN (where did this image come from)
 - Rights holder: FILL IN
 - License status: FILL IN (must permit redistribution in this repository)
-- Notes: If redistribution rights are unclear, do not store the file in the repo. Use a link instead.
+- Notes: Contains watermark or copyright notice embedded in the image
 
 ## Guidance
 - Only commit third party images if you have explicit permission or a compatible license allowing redistribution.
