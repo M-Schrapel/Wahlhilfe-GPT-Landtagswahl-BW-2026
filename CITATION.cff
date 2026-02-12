@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this repository (software, prompts, or documentation), please cite it."
+title: "Wahlhilfe BW Landtagswahl 2026 (Wahlhilfe-GPT)"
+type: software
+authors:
+  - family-names: "Schrapel"
+    given-names: "Maximilian"
+    honorific-prefix: "Dr."
+repository-code: "REPLACE_WITH_YOUR_GITHUB_REPO_URL"
+url: "REPLACE_WITH_YOUR_GITHUB_REPO_URL"
+license: "MIT"
+keywords:
+  - "Landtagswahl"
+  - "Baden-Württemberg"
+  - "Wahlprogramme"
+  - "policy analysis"
+  - "prompts"
+  - "LLM"
+preferred-citation:
+  type: software
+  title: "Wahlhilfe BW Landtagswahl 2026 (Wahlhilfe-GPT)"
+  authors:
+    - family-names: "Schrapel"
+      given-names: "Maximilian"
+      honorific-prefix: "Dr."
+  year: 2026
+  repository-code: "REPLACE_WITH_YOUR_GITHUB_REPO_URL"
+  url: "REPLACE_WITH_YOUR_GITHUB_REPO_URL"
+  license: "MIT"
